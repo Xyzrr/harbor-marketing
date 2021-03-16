@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/harbor-marketing/static/css/main.518ce94c.chunk.css",
-    "main.js": "/harbor-marketing/static/js/main.699e0c40.chunk.js",
-    "main.js.map": "/harbor-marketing/static/js/main.699e0c40.chunk.js.map",
-    "runtime-main.js": "/harbor-marketing/static/js/runtime-main.c16022db.js",
-    "runtime-main.js.map": "/harbor-marketing/static/js/runtime-main.c16022db.js.map",
-    "static/css/2.679831fc.chunk.css": "/harbor-marketing/static/css/2.679831fc.chunk.css",
-    "static/js/2.ea1dfd5d.chunk.js": "/harbor-marketing/static/js/2.ea1dfd5d.chunk.js",
-    "static/js/2.ea1dfd5d.chunk.js.map": "/harbor-marketing/static/js/2.ea1dfd5d.chunk.js.map",
-    "static/js/3.692894c1.chunk.js": "/harbor-marketing/static/js/3.692894c1.chunk.js",
-    "static/js/3.692894c1.chunk.js.map": "/harbor-marketing/static/js/3.692894c1.chunk.js.map",
-    "index.html": "/harbor-marketing/index.html",
-    "static/css/2.679831fc.chunk.css.map": "/harbor-marketing/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.518ce94c.chunk.css.map": "/harbor-marketing/static/css/main.518ce94c.chunk.css.map",
-    "static/js/2.ea1dfd5d.chunk.js.LICENSE.txt": "/harbor-marketing/static/js/2.ea1dfd5d.chunk.js.LICENSE.txt",
-    "static/media/platform-logo-macos.3aa1ef39.svg": "/harbor-marketing/static/media/platform-logo-macos.3aa1ef39.svg"
+    "main.css": "/static/css/main.518ce94c.chunk.css",
+    "main.js": "/static/js/main.699e0c40.chunk.js",
+    "main.js.map": "/static/js/main.699e0c40.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d4d77c35.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d4d77c35.js.map",
+    "static/css/2.679831fc.chunk.css": "/static/css/2.679831fc.chunk.css",
+    "static/js/2.11408f95.chunk.js": "/static/js/2.11408f95.chunk.js",
+    "static/js/2.11408f95.chunk.js.map": "/static/js/2.11408f95.chunk.js.map",
+    "static/js/3.692894c1.chunk.js": "/static/js/3.692894c1.chunk.js",
+    "static/js/3.692894c1.chunk.js.map": "/static/js/3.692894c1.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.518ce94c.chunk.css.map": "/static/css/main.518ce94c.chunk.css.map",
+    "static/js/2.11408f95.chunk.js.LICENSE.txt": "/static/js/2.11408f95.chunk.js.LICENSE.txt",
+    "static/media/platform-logo-macos.3aa1ef39.svg": "/static/media/platform-logo-macos.3aa1ef39.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c16022db.js",
+    "static/js/runtime-main.d4d77c35.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.ea1dfd5d.chunk.js",
+    "static/js/2.11408f95.chunk.js",
     "static/css/main.518ce94c.chunk.css",
     "static/js/main.699e0c40.chunk.js"
   ]
