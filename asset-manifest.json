@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.0f192f99.chunk.js",
-    "main.js.map": "/static/js/main.0f192f99.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.a9422ff4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.a9422ff4.js.map",
-    "static/js/2.ffe3849b.chunk.js": "/static/js/2.ffe3849b.chunk.js",
-    "static/js/2.ffe3849b.chunk.js.map": "/static/js/2.ffe3849b.chunk.js.map",
-    "static/js/3.5fa294d8.chunk.js": "/static/js/3.5fa294d8.chunk.js",
-    "static/js/3.5fa294d8.chunk.js.map": "/static/js/3.5fa294d8.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.ffe3849b.chunk.js.LICENSE.txt": "/static/js/2.ffe3849b.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/harbor-marketing/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/harbor-marketing/static/js/main.0f192f99.chunk.js",
+    "main.js.map": "/harbor-marketing/static/js/main.0f192f99.chunk.js.map",
+    "runtime-main.js": "/harbor-marketing/static/js/runtime-main.cca86005.js",
+    "runtime-main.js.map": "/harbor-marketing/static/js/runtime-main.cca86005.js.map",
+    "static/js/2.ffe3849b.chunk.js": "/harbor-marketing/static/js/2.ffe3849b.chunk.js",
+    "static/js/2.ffe3849b.chunk.js.map": "/harbor-marketing/static/js/2.ffe3849b.chunk.js.map",
+    "static/js/3.5fa294d8.chunk.js": "/harbor-marketing/static/js/3.5fa294d8.chunk.js",
+    "static/js/3.5fa294d8.chunk.js.map": "/harbor-marketing/static/js/3.5fa294d8.chunk.js.map",
+    "index.html": "/harbor-marketing/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/harbor-marketing/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.ffe3849b.chunk.js.LICENSE.txt": "/harbor-marketing/static/js/2.ffe3849b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/harbor-marketing/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9422ff4.js",
+    "static/js/runtime-main.cca86005.js",
     "static/js/2.ffe3849b.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.0f192f99.chunk.js"
