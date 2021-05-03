@@ -10,7 +10,7 @@ function App() {
       <S.Container>
         <S.Heading>Slogan TBD.</S.Heading>
         <S.DownloadButton
-          href="https://github.com/Xyzrr/virtual-office/releases/latest/Harbor-0.1.6.dmg"
+          href="https://github.com/Xyzrr/virtual-office/releases/latest/download/Harbor-0.1.6.dmg"
           download
         >
           <S.PlatformLogo src={macLogo} />
