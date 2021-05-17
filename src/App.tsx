@@ -8,9 +8,9 @@ function App() {
     <S.Wrapper>
       <S.GlobalStyles />
       <S.Container>
-        <S.Heading>Slogan TBD.</S.Heading>
+        <S.Heading>Remote work doesn't have to be lonely.</S.Heading>
         <S.DownloadButton
-          href="https://github.com/Xyzrr/harbor/releases/latest/download/Harbor-0.2.5.dmg"
+          href="https://github.com/Xyzrr/harbor/releases/latest/download/Harbor-0.2.9.dmg"
           download
         >
           <S.PlatformLogo src={macLogo} />

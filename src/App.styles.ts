@@ -24,10 +24,10 @@ export const Container = styled.div`
 `;
 
 export const Heading = styled.h1`
-  font-size: 72px;
+  font-size: 48px;
   font-weight: 200;
   color: rgba(255, 255, 255, 0.5);
-  margin-bottom: 52px;
+  margin-bottom: 32px;
 `;
 
 export const PlatformLogo = styled.img`
