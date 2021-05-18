@@ -10,7 +10,7 @@ function App() {
       <S.Container>
         <S.Heading>Remote work doesn't have to be lonely.</S.Heading>
         <S.DownloadButton
-          href="https://github.com/Xyzrr/harbor/releases/download/v0.2.17/Harbor-0.2.17.dmg"
+          href="https://github.com/Xyzrr/harbor/releases/download/v0.2.18/Harbor-0.2.18.dmg"
           download
         >
           <S.PlatformLogo src={macLogo} />
